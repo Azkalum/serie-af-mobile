@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137933051790",
+    "project_id": "serie-af-mobile",
+    "storage_bucket": "serie-af-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137933051790:android:4fe2809b8714afdcf336df",
+        "android_client_info": {
+          "package_name": "github.com.serie_af_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPT-lGFkSca3S7zd_1wpyxcbktSp5Y7BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
